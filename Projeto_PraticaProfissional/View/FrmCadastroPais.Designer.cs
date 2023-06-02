@@ -32,6 +32,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtsigla = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.TxtDDI = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.cbStatus = new System.Windows.Forms.ComboBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // bt_Salvar
@@ -78,10 +82,48 @@
             this.label2.TabIndex = 7;
             this.label2.Text = "Sigla";
             // 
+            // TxtDDI
+            // 
+            this.TxtDDI.Location = new System.Drawing.Point(503, 25);
+            this.TxtDDI.Name = "TxtDDI";
+            this.TxtDDI.Size = new System.Drawing.Size(90, 20);
+            this.TxtDDI.TabIndex = 33;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(500, 10);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(26, 13);
+            this.label3.TabIndex = 34;
+            this.label3.Text = "DDI";
+            // 
+            // cbStatus
+            // 
+            this.cbStatus.FormattingEnabled = true;
+            this.cbStatus.Location = new System.Drawing.Point(600, 25);
+            this.cbStatus.Name = "cbStatus";
+            this.cbStatus.Size = new System.Drawing.Size(121, 21);
+            this.cbStatus.TabIndex = 35;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(597, 9);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(37, 13);
+            this.label4.TabIndex = 36;
+            this.label4.Text = "Status";
+            // 
             // FrmCadastroPais
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.cbStatus);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.TxtDDI);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtsigla);
             this.Controls.Add(this.label1);
@@ -89,6 +131,12 @@
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FrmCadastroPais";
             this.Load += new System.EventHandler(this.FrmCadastroPais_Load);
+            this.Controls.SetChildIndex(this.txtDataCad, 0);
+            this.Controls.SetChildIndex(this.lbl_DataCad, 0);
+            this.Controls.SetChildIndex(this.txtDataAlt, 0);
+            this.Controls.SetChildIndex(this.lbl_DataAlt, 0);
+            this.Controls.SetChildIndex(this.txt_UserCad, 0);
+            this.Controls.SetChildIndex(this.lbl_UsuarioCad, 0);
             this.Controls.SetChildIndex(this.txtBox_Cod, 0);
             this.Controls.SetChildIndex(this.bt_Sair, 0);
             this.Controls.SetChildIndex(this.bt_Salvar, 0);
@@ -96,6 +144,10 @@
             this.Controls.SetChildIndex(this.label1, 0);
             this.Controls.SetChildIndex(this.txtsigla, 0);
             this.Controls.SetChildIndex(this.label2, 0);
+            this.Controls.SetChildIndex(this.TxtDDI, 0);
+            this.Controls.SetChildIndex(this.label3, 0);
+            this.Controls.SetChildIndex(this.cbStatus, 0);
+            this.Controls.SetChildIndex(this.label4, 0);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -106,5 +158,9 @@
         private System.Windows.Forms.Label label2;
         public System.Windows.Forms.TextBox txtdescricao;
         public System.Windows.Forms.TextBox txtsigla;
+        private System.Windows.Forms.Label label3;
+        public System.Windows.Forms.TextBox TxtDDI;
+        private System.Windows.Forms.Label label4;
+        public System.Windows.Forms.ComboBox cbStatus;
     }
 }

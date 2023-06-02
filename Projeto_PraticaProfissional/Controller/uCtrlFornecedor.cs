@@ -18,8 +18,8 @@ namespace Projeto_PraticaProfissional.Controller
         }
         public void Salvar(Fornecedor Fornecedores)
         {
-            Fornecedores = Fornecedores;
-            DaoFornecedor.CadastrarFornecedor(Fornecedores);
+            //Fornecedores = Fornecedores;
+            //DaoFornecedor.CadastrarFornecedor(Fornecedores);
         }
     }
 }

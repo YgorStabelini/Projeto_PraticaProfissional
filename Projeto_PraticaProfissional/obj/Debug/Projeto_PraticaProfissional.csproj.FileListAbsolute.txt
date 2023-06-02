@@ -110,3 +110,4 @@ C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Pr
 C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFornecedor.resources
 C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFuncionario.resources
 C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaProduto.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaProduto.resources

@@ -14,6 +14,7 @@ namespace Projeto_PraticaProfissional
     public partial class FrmCadastroPais : Projeto_PraticaProfissional.FrmCadastro
     {
         private uCtrlPaises ControllerPaises = new uCtrlPaises();
+        public int id_selecionado;
         public FrmCadastroPais()
         {
             InitializeComponent();
@@ -25,9 +26,18 @@ namespace Projeto_PraticaProfissional
             obj.Sigla = txtsigla.Text.ToUpper();
             obj.DataCad = DateTime.Parse(txtDataCad.Text);
             obj.DataAlt = DateTime.Parse(txtDataAlt.Text);
+            obj.DDI = TxtDDI.Text;
+            obj.Status = int.Parse(cbStatus.SelectedValue.ToString());
 
-            ControllerPaises.Salvar(obj);
-
+            if (obj.Id != id_selecionado)
+            {
+                obj.Id = id_selecionado;
+                ControllerPaises.Alterar(obj);
+            }
+            else
+            {
+                ControllerPaises.Salvar(obj);
+            }
             this.Close();
         }
 
@@ -37,6 +47,16 @@ namespace Projeto_PraticaProfissional
             txtDataAlt.Text = DateTime.Now.ToString();
             txtDataCad.Enabled = false;
             txtDataAlt.Enabled = false;
+
+
+            //popula ComboBox
+            Dictionary<int, string> st = new Dictionary<int, string>();
+            st.Add(1, "Ativo");
+            st.Add(2, "Desativado");
+            cbStatus.Items.Clear();
+            cbStatus.DataSource = new BindingSource(st, null);
+            cbStatus.DisplayMember= "Value";
+            cbStatus.ValueMember = "Key";
         }
     }
 }

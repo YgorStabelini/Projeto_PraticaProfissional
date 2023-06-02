@@ -22,5 +22,6 @@ namespace Projeto_PraticaProfissional.Controller
             DaoCidade.CadastrarCidade(cidades);
         }
 
+
     }
 }
