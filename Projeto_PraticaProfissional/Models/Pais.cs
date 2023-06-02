@@ -17,5 +17,9 @@ namespace Projeto_PraticaProfissional.Models
         public DateTime DataCad { get; set; }
 
         public DateTime DataAlt { get; set; }
+
+        public string DDI { get; set; }
+
+        public int Status { get; set; }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Projeto_PraticaProfissional.Dao;
+﻿using Projeto_PraticaProfissional.Controller;
+using Projeto_PraticaProfissional.Dao;
 using Projeto_PraticaProfissional.Models;
 using System;
 using System.Collections.Generic;
@@ -12,6 +13,7 @@ namespace Projeto_PraticaProfissional
 {
     public partial class FrmConsultaPais : Projeto_PraticaProfissional.FrmConsulta
     {
+        private uCtrlPaises ControllerPaises = new uCtrlPaises();
         public FrmConsultaPais()
         {
             InitializeComponent();
@@ -19,18 +21,15 @@ namespace Projeto_PraticaProfissional
 
         private void bt_Incluir_Click(object sender, EventArgs e)
         {
-            PaisDAO dao = new PaisDAO();
-
             FrmCadastroPais frmCadPais = new FrmCadastroPais();
             frmCadPais.ShowDialog();
 
-            DgViewPais.DataSource = dao.ListarPais();
+            DgViewPais.DataSource = ControllerPaises.Carregar();
         }
 
         private void FrmConsultaPais_Load(object sender, EventArgs e)
         {
-            PaisDAO dao = new PaisDAO();
-            DgViewPais.DataSource = dao.ListarPais();
+            DgViewPais.DataSource = ControllerPaises.Carregar();
             DgViewPais.Columns["Cod_Pais"].HeaderText = "Código";
             DgViewPais.Columns["Nome_Pais"].HeaderText = "Nome";
             DgViewPais.Columns["Sigla"].HeaderText = "Sigla";
@@ -43,11 +42,10 @@ namespace Projeto_PraticaProfissional
 
             obj.Id = Convert.ToInt32(DgViewPais.Rows[DgViewPais.CurrentCell.RowIndex].Cells["Cod_Pais"].Value);
 
-            PaisDAO dao = new PaisDAO();
             if (MessageBox.Show("Tem certeza que deseja Excluir este Cadastro?", "Confirmação", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
-                dao.ExcluirPais(obj);
-                DgViewPais.DataSource = dao.ListarPais();
+                ControllerPaises.Excluir(obj);
+                DgViewPais.DataSource = ControllerPaises.Carregar();
             }
         }
 
@@ -57,12 +55,10 @@ namespace Projeto_PraticaProfissional
 
             Pais obj = new Pais();
             obj.Id = Convert.ToInt32(DgViewPais.Rows[DgViewPais.CurrentCell.RowIndex].Cells["Cod_Pais"].Value);
+            FrmCadPais.id_selecionado = obj.Id;
             FrmCadPais.ShowDialog();
 
-            PaisDAO dao = new PaisDAO();
-            dao.AlterarPais(obj);
-
-            DgViewPais.DataSource = dao.ListarPais();
+            DgViewPais.DataSource = ControllerPaises.Carregar();
             this.Close();
         }
 

@@ -25,14 +25,16 @@ namespace Projeto_PraticaProfissional.Dao
             try
             {
 
-                string sql = @"insert into tb_pais (Nome_Pais, Sigla, DataCad, DataAlt)
-                                values (@nome, @Sigla, @DataCad, @DataAlt)";
+                string sql = @"insert into tb_pais (Nome_Pais, Sigla, DataCad, DataAlt, DDI, Status)
+                                values (@nome, @Sigla, @DataCad, @DataAlt, @DDI, @Status)";
 
                 MySqlCommand executacmd = new MySqlCommand(sql, conexao);
                 executacmd.Parameters.AddWithValue("@nome", obj.Descricao);
                 executacmd.Parameters.AddWithValue("@Sigla", obj.Sigla);
                 executacmd.Parameters.AddWithValue("@DataCad", obj.DataCad);
                 executacmd.Parameters.AddWithValue("@DataAlt", obj.DataAlt);
+                executacmd.Parameters.AddWithValue("@DDI", obj.DDI);
+                executacmd.Parameters.AddWithValue("@Status", obj.Status);
 
                 conexao.Open();
                 executacmd.ExecuteNonQuery();
@@ -52,12 +54,15 @@ namespace Projeto_PraticaProfissional.Dao
         {
             try
             {
-                string sql = @"update tb_pais set (Nome_Pais=@nome, Sigla=@Sigla)
-                             where Cod_Pais=@id";
+                string sql = @"update tb_pais set Nome_Pais=@nome, Sigla=@Sigla, DataAlt=@DataAlt, DDI=@DDI, Status=@Status where Cod_Pais=@id";
 
                 MySqlCommand executacmd = new MySqlCommand(sql, conexao);
                 executacmd.Parameters.AddWithValue("@nome", obj.Descricao);
                 executacmd.Parameters.AddWithValue("@Sigla", obj.Sigla);
+                executacmd.Parameters.AddWithValue("@DataAlt", obj.DataAlt);
+                executacmd.Parameters.AddWithValue("@DDI", obj.DDI);
+                executacmd.Parameters.AddWithValue("@Status", obj.Status);
+
 
                 executacmd.Parameters.AddWithValue("@id", obj.Id);
 
@@ -105,7 +110,7 @@ namespace Projeto_PraticaProfissional.Dao
             {
                 DataTable tabelaPais = new DataTable();
 
-                string sql = "select Cod_Pais, Nome_Pais, Sigla from tb_Pais";
+                string sql = "select Cod_Pais, Nome_Pais, Sigla, DDI from tb_Pais";
 
                 MySqlCommand executacmd = new MySqlCommand(sql, conexao);
 
