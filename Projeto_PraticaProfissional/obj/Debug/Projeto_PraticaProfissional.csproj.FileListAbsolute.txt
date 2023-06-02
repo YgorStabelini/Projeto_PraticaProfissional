@@ -1,0 +1,112 @@
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.exe.config
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.exe
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.pdb
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.AssemblyReference.cache
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.SuggestedBindingRedirects.cache
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmPrincipal.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmConsulta.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.Properties.Resources.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.GenerateResource.cache
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.CoreCompileInputs.cache
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.exe
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.pdb
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmConsultaPais.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmCadastro.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.exe.config
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.exe
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Projeto_PraticaProfissional.pdb
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.AssemblyReference.cache
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.SuggestedBindingRedirects.cache
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmPrincipal.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmCadastro.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmConsulta.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmConsultaPais.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.Properties.Resources.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.GenerateResource.cache
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.CoreCompileInputs.cache
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.exe
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.pdb
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmCadastroPais.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\MySql.Data.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Buffers.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Memory.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\ZstdNet.dll
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.pdb
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\MySql.Data.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Buffers.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Memory.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.CopyComplete
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaEstado.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroEstado.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroCidade.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroCliente.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaCidade.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaCliente.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\MySql.Data.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Buffers.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Memory.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.pdb
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\Google.Protobuf.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\MySql.Data.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Buffers.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Memory.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroCidade.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroEstado.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.FrmCadastroPais.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaCidade.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaCliente.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaEstado.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.csproj.CopyComplete
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroUndMedida.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaUndMedida.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroMarca.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaMarca.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroPessoa.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroCliente.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroGrupoProduto.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaGrupoProduto.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroSubGrupo.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaSubGrupo.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroGrupoProduto.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroPessoa.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroMarca.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroSubGrupo.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroUndMedida.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaGrupoProduto.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaMarca.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaSubGrupo.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaUndMedida.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroFuncionario.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFuncionario.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFornecedor.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmCadastroFuncionario.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFornecedor.resources
+C:\Users\xdark\OneDrive\Área de Trabalho\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaFuncionario.resources
+C:\Users\xdark\Desktop\Projeto\Projeto_PraticaProfissional\Projeto_PraticaProfissional\obj\Debug\Projeto_PraticaProfissional.View.FrmConsultaProduto.resources
